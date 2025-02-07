@@ -19,6 +19,7 @@ Watchdog.exe checks to see if the blocker is running.
 Preventer.exe checks to see if the user is trying to uninstall the application and prevents them from doing so.
 
 How to run:
+
 1.Run the Tesseract installer and go to C:\Program Files\Tesseract-OCR or wherever you install it.
 Copy all the files in here and paste it in the Tesseract folder for the blocker.
 
