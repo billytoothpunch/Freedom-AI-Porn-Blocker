@@ -1,0 +1,2 @@
+pyinstaller --onefile --noconsole --name "freedom_blocker" --add-data "models/640m.onnx;models" freedom_blocker.py 
+pyinstaller --onefile --noconsole --name "watchdog" watchdog.py
