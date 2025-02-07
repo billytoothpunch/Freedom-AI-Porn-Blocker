@@ -40,7 +40,7 @@ You need python and pyinstaller for this
 https://jrsoftware.org/isdl.php#stable
 This will allow us to make an installer and have it run on startup.
 
-6.Open the "setup" script and run it in inno.
+6.Open the "setup" script and run it in inno. make sure to have extract into the folder "bammus" since that is the detected keyword for the prevention of uninstall, also make sure to add in your own directories for where the scripts are
 
 7.Turn off Antivirus or switch to malwarebytes, The built in antivirus for windows keeps on flagging it and stopping the program from functioning.
 
