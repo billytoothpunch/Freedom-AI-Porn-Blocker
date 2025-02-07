@@ -3,14 +3,20 @@ Created this for myself to block NSFW on my laptop
 
 Things needed:
 Tesseract-OCR
+
 [https://github.com/tesseract-ocr/tesseract/releases/download/5.5.0/tesseract-ocr-w64-setup-5.5.0.20241111.exe]
-or [https://github.com/UB-Mannheim/tesseract/wiki]
+or
+
+[https://github.com/UB-Mannheim/tesseract/wiki]
 
 Nudenet Model 
+
 [https://github.com/notAI-tech/nudenet?tab=readme-ov-file]
 360 (Lightweight, less accurate)
+
 [https://github.com/notAI-tech/NudeNet/releases/download/v3.4-weights/320n.onnx]
 640 (more accurate)
+
 [https://github.com/notAI-tech/NudeNet/releases/download/v3.4-weights/640m.onnx]
 The model must be in .onnx to work correctly.
 
