@@ -45,5 +45,8 @@ This will allow us to make an installer and have it run on startup.
 7.Turn off Antivirus or switch to malwarebytes, The built in antivirus for windows keeps on flagging it and stopping the program from functioning.
 
 Enjoy? i guess
+add me on telegram if u have questions:
+
+@Testobamus
 
 If someone can help me solve the Antivirus issue that causes it to keep flagging up i would appreciate it
